@@ -1,0 +1,21 @@
+.main {
+ 
+    justify-content: center;
+}
+.foto-card{
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+}
+.card {
+    align-self: center;
+    padding: 10px;
+    margin:5px;
+    border-radius: 30px;
+}
+.card-img-top{
+    border-radius: 30px;
+}
+.foto-slider {
+    padding: 10px;
+}
